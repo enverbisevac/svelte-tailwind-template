@@ -2095,9 +2095,9 @@ svelte-preprocess@^2.15.0:
     postcss-load-config "^2.0.0"
     strip-indent "^2.0.0"
 
-svelte@^3.0.0:
-  version "3.6.10"
-  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.6.10.tgz#054f944a8c161b16748d7f2e00a383252cd14725"
+svelte@^3.49.0:
+  version "3.49.0"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.49.0.tgz#5baee3c672306de1070c3b7888fc2204e36a4029"
 
 tailwindcss@^1.0.5:
   version "1.0.5"
